@@ -1,9 +1,15 @@
 ### Hi there 👋
 
+Hi, I'm Taylor! I'm a full-stack web developer finishing up my training at Lambda School. In addition to the web development skills I've been building there, I have a background in theoretical computer science and experience using Python and NumPy.
+
+I'm currently looking for web development work. You can contact me at [taylorfriesen@protonmail.com](mailto:taylorfriesen@protonmail.com) and I am [taylorfriesen6](https://www.linkedin.com/in/taylorfriesen6) on LinkedIn.
+
 <!--
 **taylorfriesen6/taylorfriesen6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
